@@ -1,0 +1,19 @@
+body {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.blog-heading {
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+}
+
+.blog-title {
+    font-size: 30px;
+}
+.single-blog {
+    background-color: gainsboro;
+    padding: 30px;
+    margin: 20px;
+}
